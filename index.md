@@ -26,7 +26,7 @@ Keep regularly checking our [Official OWASP JCT Meetup group]()
 ## Speaker request
 If you like to speak on our upcoming events, Kindly mail us
 * [Kishor R](mailto:kishor.ravi@owasp.org)
-* [dr.rajiv suresh kumar](mailto:rajiv_suresh.kumar@owasp.org) (Faculty Advisor)
+* [Dr.Rajiv Suresh Kumar](mailto:rajiv_suresh.kumar@owasp.org) (Faculty Advisor)
 
 **Email Format :**
 
@@ -41,3 +41,10 @@ If you like to speak on our upcoming events, Kindly mail us
     - Name / Title of the Presentation
     - Abstract of the presentation
     - Presentation time required
+    
+    
+Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
+
+
