@@ -4,7 +4,7 @@
 ### Social Links
 * [Meetup](#)
 * [Instagram](https://instagram.com/owasp.jct?igshid=ZDdkNTZiNTM=)
-* [Linkedin](#)
+* [Linkedin](https://www.linkedin.com/in/owasp-jct-cet-9186a5269)
 * [Twitter](https://twitter.com/owasp_jct?t=PlsjcxjhvXZSSXsfpoXBsg&s=09)
 
 

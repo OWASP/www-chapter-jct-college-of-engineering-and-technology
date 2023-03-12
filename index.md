@@ -41,3 +41,10 @@ If you like to speak on our upcoming events, Kindly mail us
     - Name / Title of the Presentation
     - Abstract of the presentation
     - Presentation time required
+    
+    
+Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+---------------------
+{% include chapter_events.html group=page.meetup-group %}
+
+
