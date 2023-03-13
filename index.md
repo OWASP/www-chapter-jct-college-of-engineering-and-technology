@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP JCT College of Engineering and Technology
 tags: COIMATORE OWASP JCT
 region: Asia
-meetup-group:owasp-jct-college-of-engineering-and-technology
+meetup-group:owasp-jct-college-of-engineering-and-technology/
 
 ---
 
