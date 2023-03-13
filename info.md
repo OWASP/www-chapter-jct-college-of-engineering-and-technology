@@ -1,5 +1,4 @@
 ### JCT College of Engineering and Technology Information
-* Provide Group Information
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-jct-college-of-engineering-and-technology/)
