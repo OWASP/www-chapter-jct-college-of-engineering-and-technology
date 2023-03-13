@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP JCT College of Engineering and Technology
 tags: COIMATORE OWASP JCT
 region: Asia
-meetup-group:
+meetup-group:owasp-jct-college-of-engineering-and-technology
 
 ---
 
@@ -21,7 +21,7 @@ The Open Web Application Security Project (OWASP) is a nonprofit foundation that
 Everyone is welcome and encouraged to participate in our events and contribute their support.
 
 ## For Events and Updates
-Keep regularly checking our [Official OWASP JCT Meetup group]()
+Keep regularly checking our [Official OWASP JCT Meetup group](https://www.meetup.com/owasp-jct-college-of-engineering-and-technology/)
 
 ## Speaker request
 If you like to speak on our upcoming events, Kindly mail us
