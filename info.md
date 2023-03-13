@@ -1,5 +1,5 @@
 ### JCT College of Engineering and Technology Information
-
+[Visit](https://www.jct.ac.in)
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-jct-college-of-engineering-and-technology/)
 * [Instagram](https://instagram.com/owasp.jct?igshid=ZDdkNTZiNTM=)
