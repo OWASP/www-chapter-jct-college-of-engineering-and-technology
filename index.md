@@ -9,7 +9,7 @@ meetup-group: owasp-jct-college-of-engineering-and-technology
 ---
 
 
- <img src="assets/images/logobanner.md">
+ <img src="![linkdin-cover-01-01](https://github.com/OWASP/www-chapter-jct-college-of-engineering-and-technology/assets/76610273/bc31cfad-f002-4755-a29c-4539a2d1c833)">
 ## WELCOME
  
 OWASP JCT CET was founded in March,2023. We organise Meetups, Workshops, Webinar, CTF and Conferences. All these event are open, anyone who is interest can participate and learn. We encourage secure application development and the exchange of cyber security knowledge. Our goal is to make Cyberspace a better place!
