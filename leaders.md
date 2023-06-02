@@ -1,6 +1,5 @@
 ### Leaders
 * [Kishor R](mailto:kishor.ravi@owasp.org)
-
-* [dr.rajiv suresh kumar](mailto:rajiv_suresh.kumar@owasp.org) (Faculty Advisor)
-
+* [Amal Gopakumar](mailto:amal.gopakumar@owasp.org)
+* [Rajkumar Kumaresan](Faculty Advisor)(mailto:rajkumar.kumaresan@owasp.org)
 
