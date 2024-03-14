@@ -17,7 +17,7 @@ OWASP JCT CET was founded in March,2023. We organise Meetups, Workshops, Webinar
 
 
 ## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. This chapter are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/) and any financial contributions should only be made online using the authorized online donation button.
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, and chapters are free and open to anyone interested in improving application security. This chapter are led by local leaders in accordance with the [Chapter Policy](https://owasp.org/www-policy/) and any financial contributions should only be made online using the authorized online donation button.
 
 Everyone is welcome and encouraged to participate in our events and contribute their support.
 
